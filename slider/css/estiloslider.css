@@ -1,0 +1,35 @@
+
+/*.container{
+	float:right;
+	width: 75%;
+	height: 30%;
+	padding: 20px;
+	border:solid 1px #999;
+	margin:auto;
+	margin-bottom:20px;
+	background-color:#F1F1F1;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	margin-right:15px;
+	}*/
+#slider{
+	position: relative;
+	width: 95%;
+	height: 200px;
+	padding: 0px;
+	background-color: #000;
+	margin: 0 auto;
+}
+#slider > div{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+#foto1{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	background-color: #000;
+	margin: 0 auto;
+}

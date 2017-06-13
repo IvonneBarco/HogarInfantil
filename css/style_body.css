@@ -1,0 +1,422 @@
+#galeria2, #quienesSomos2, #niveles2, #eventos, #preinscripcion, #personal2{
+	padding:0px 0 ; 
+	/*/*padding-top: 70px;*/
+	}/**============================== **/
+
+#eventos2{ 
+	padding:0px 0;
+	background:#ede5fd;
+	text-align: center; 
+	/*/*padding-top: 70px;*/
+}
+
+#eventos2 h1{ 
+	text-transform:uppercase; 
+	color: #137ae8; 
+	padding:0; 
+	font-size:5em;
+}
+
+#eventos2  h3 {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    line-height: 27px;
+	margin: 15px 0;
+}
+
+#imgevento{
+	width: 340px;
+	height: 200px;
+
+}
+
+
+#eventos2 .thumbnails  p {
+    color: #2626e2;
+    font-size: 1.5em;
+    line-height: 27px;
+	margin:20px 0 0;
+	padding-bottom:10px;
+}
+
+#eventos2  p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 27px;
+	margin: 15px 0;
+}
+
+#eventos2 h4 {
+    font-size: 2.5em;
+    color: #9034e2;
+    line-height: 40px;
+    margin:10px 0;
+}
+
+#eventos2 h6 {
+    font-size: 1.3em;
+    color: #d008ac;
+    font-style:italic;
+}
+
+#eventos2 .span6, #preinscripcion2 .span6{ 
+	float:none; 
+	margin:0 auto; 
+	text-align:center;
+}
+
+#eventos2 .thumbnails > li{
+	margin-left: 60px; 
+	margin-bottom:60px;
+}
+
+#eventos2 .thumbnails > li.span4{ 
+	width:350px;
+}
+
+#eventos2 .btn-primary{
+	font-size:24px;
+	font-family: 'Actor', sans-serif;
+	background: #137ae8;
+	border-color:rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+	border:1px solid;
+	padding:15px 20px;
+	border-radius:10px;
+}
+
+#eventos2 .btn-primary:hover{
+	background:#FFF;
+	border-color:#137ae8;
+	color: #137ae8;
+	transition:all ease-in .5s;
+}
+
+
+/**============================== **/
+
+#preinscripcion2{ 
+	background: #fffbc8; 
+	text-align:center; 
+	padding:0px 0 0;
+	/*/*padding-top: 70px;*/
+}
+
+#preinscripcion2 .span8{ 
+	float:none; 
+	margin:0 
+	auto;
+}
+
+#preinscripcion2 h1{ 
+	text-transform:uppercase; 
+	color:#ef8703; 
+	padding:0;
+	font-size:5em;
+}
+
+#preinscripcion2 h3 {
+    font-size: 1.5em;
+    font-family: 'Actor', sans-serif;
+    color: #fff;
+}
+
+
+#preinscripcion2 p {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    line-height: 27px;
+	margin: 15px 0;
+}
+
+#preinscripcion2 .btn-primary{
+	margin-top: 20px;
+	font-size:24px;
+	font-family: 'Actor', sans-serif;
+	background: #fff;
+	color: #ef90a1;
+	border-color:rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+	border:1px solid;
+	padding:15px 20px;
+	border-radius:10px;
+}
+
+#preinscripcion2 .btn-primary:hover{
+	margin-top: 20px;
+	background:#ef90a1;
+	border-color:#fff;
+	color: #fff;
+	transition:all ease-in .5s;
+}
+
+/**============================== **/
+#personal2{ 
+	padding:0px 0; 
+	background:#e7fdfb;  
+	text-align: center; 
+	/*/*padding-top: 70px;*/
+}
+
+#personal2 h1{ 
+	text-transform:uppercase; 
+	color:#a818ef; 
+	padding:0; 
+	font-size:5em;
+}
+
+#personal2  h3 {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    line-height: 27px;
+	margin: 15px 0;
+}
+
+.imgpersonal2{
+	width: 340px;
+	height: 227px;
+	opacity: .5;
+    transition: all ease-in .5s;
+    transform: scale(1.1);
+}
+
+
+
+#personal2 .thumbnails  p {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    line-height: 27px;
+	margin:20px 0;
+}
+
+#personal2  p {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    line-height: 27px;
+	margin: 15px 0;
+}
+
+#personal2 h4 {
+	font-family: 'Lobster', cursive;
+    font-size: 3em;
+    color: #369cf5;
+    line-height: 40px;
+    margin:10px 0;
+}
+
+#personal2 h5 {
+    font-size: 1.4em;
+    font-family: 'Handlee', cursive;
+    color: #1640b9;
+}
+
+/**============================== **/
+
+#requisitos{
+	padding:0px 0; 
+	background: #f9f0d6;
+	text-align: center;
+	border-top: 1px solid #ddd;
+	/*padding-top: 70px;*/
+
+#requisitos h4 {
+	font-size:2.5em;
+	font-family: 'Luckiest Guy', cursive;
+	text-transform:uppercase; 
+	color: #f1cb06; 
+	/*text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px LightSalmon;*/
+    margin:25px 0;
+}
+
+#requisitos h1{ 
+	text-transform:uppercase; 
+	color: #de640a; 
+	/*text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px LightSalmon;*/
+	padding:0; 
+	font-size:5em;
+}
+
+#requisitos p {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    line-height: 27px;
+}
+
+#requisitos .btn-primary{
+	font-size:24px;
+	font-family: 'Actor', sans-serif;
+	background: #de640a;
+	border-color:rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+	border:1px solid;
+	padding:15px 20px;
+	border-radius:10px;
+}
+
+#requisitos .btn-primary:hover{
+	background:#FFF;
+	border-color:#de640a;
+	color: #de640a;
+	transition:all ease-in .5s;
+}
+
+#requisitos .span12{ 
+	margin:0;
+	margin-bottom: 36px;
+}
+
+#requisitos ol>li{ 
+	font-size:20px;
+	font-family: 'Actor', sans-serif;
+	color: black;
+}
+
+#imgrequisitos{
+	width: 60%;
+	height: 60%;
+}
+
+#galeria2, #quienesSomos2, #niveles2{padding:0px 0 ; }
+
+.txtR{text-align:right}
+
+#quienesSomos2{
+	padding-top: 0px;
+	background: #fbefef;
+	text-align: center;
+	border-top: 1px solid #ddd;
+	height: 100%;
+}
+
+#quienesSomos2 h4 {
+	font-size:2.5em;
+	font-family: 'Luckiest Guy', cursive;
+	text-transform:uppercase; 
+	color: #03AEC6; 
+	/*text-shadow: 1px 1px 2px black, 0 0 25px #57e8f7, 0 0 5px #48b3a9;*/
+    margin:25px 0;
+}
+
+#quienesSomos2 h1{ 
+	text-transform:uppercase; 
+	color: #E63079; 
+	/*text-shadow: 1px 1px 2px black, 0 0 25px #f36aa1, 0 0 5px #b656c7;*/
+	padding:0; 
+	font-size:5em;
+}
+
+#quienesSomos2 p {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    line-height: 27px;
+}
+
+#quienesSomos2 .btn-primary{
+	font-size:24px;
+	font-family: 'Actor', sans-serif;
+	background: #E63079;
+	border-color:rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+	border:1px solid;
+	padding:15px 20px;
+	border-radius:10px;
+}
+
+#quienesSomos2 .btn-primary:hover{
+	background:#FFF;
+	border-color:#E63079;
+	color:#E63079;
+	transition:all ease-in .5s;
+}
+
+#imgquienesSomos2{
+	width:80%;
+	height:80%;
+}
+
+#quienesSomos2 form{
+	font-size:1.5em;
+}
+
+
+/**============================== **/
+
+#galeria2{
+	background: #99d4a5;
+	text-align: center;
+	/*padding-top: 70px;*/
+
+#galeria2 h1{ 
+	text-transform:uppercase; 
+	color:#fff; 
+	padding:0;
+	font-size:5em;
+}
+
+#galeria2 p {
+    color: #fff;
+    font-size: 1.5em;
+    line-height: 27px;
+	margin: 15px 0;
+}
+
+#galeria2 .span6, #preinscripcion2 .span6{ 
+	float:none; 
+	margin:0 auto; 
+	text-align:center;
+}
+/**============================== **/
+
+#niveles2{
+	background: #f9f0d6;
+	text-align: center;
+	border-top: 1px solid #ddd;
+	/*padding-top: 70px;*/
+
+#niveles2 h4 {
+	font-size:2.5em;
+	font-family: 'Luckiest Guy', cursive;
+	text-transform:uppercase; 
+	color: #f1cb06; 
+	/*text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px LightSalmon;*/
+    margin:25px 0;
+}
+
+#niveles2 h1{ 
+	text-transform:uppercase; 
+	color: #de640a; 
+	/*text-shadow: 1px 1px 2px black, 0 0 25px orange, 0 0 5px LightSalmon;*/
+	padding:0; 
+	font-size:5em;
+}
+
+#niveles2 p {
+    color: #5E5E5E;
+    font-size: 1.5em;
+    line-height: 27px;
+}
+
+#niveles2 .btn-primary{
+	font-size:24px;
+	font-family: 'Actor', sans-serif;
+	background: #de640a;
+	border-color:rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.15) rgba(0, 0, 0, 0.25);
+	border:1px solid;
+	padding:15px 20px;
+	border-radius:10px;
+}
+
+#niveles2 .btn-primary:hover{
+	background:#FFF;
+	border-color:#de640a;
+	color: #de640a;
+	transition:all ease-in .5s;
+}
+
+#niveles2 .span12{ 
+	margin:0;
+	margin-bottom: 36px;
+}
+
+#imgniveles2{
+	width: 60%;
+	height: 60%;
+}
+/**============================== **/
